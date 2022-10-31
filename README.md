@@ -10,7 +10,7 @@ In this profile you can find my projects from:
   * 42 Wolfsburg Software Engineering School
   * The Odin Project
  
- ---
+ #
  
  ### Languages and Tools
  
@@ -26,4 +26,4 @@ In this profile you can find my projects from:
  ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagotena&show_icons=true&theme=dark)
 
  
- #
+ 
