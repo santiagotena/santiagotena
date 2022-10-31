@@ -2,7 +2,8 @@
 
 **`Software Engineering Student`**
 
-I am a biotechnology engineer turning into a software developer.
+I am a biotechnology engineer and life science researcher in the process of becoming a software developer.
+
 My aim is to become a full-stack developer.
 
 In this profile you can find my projects from:
@@ -11,7 +12,7 @@ In this profile you can find my projects from:
  
  ---
  
- ### 🧰 Languages and Tools
+ ### Languages and Tools
  
  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
  <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -21,9 +22,7 @@ In this profile you can find my projects from:
  <br />
  
  #
- 
- ### 📊 Stats
- 
+  
  ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagotena&show_icons=true&theme=dark)
 
  
