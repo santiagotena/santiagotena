@@ -1,5 +1,3 @@
-# Santiago Tena
-
 **`Software Engineering Student`**
 
 I am a biotechnology engineer and life science researcher in the process of becoming a software developer.
