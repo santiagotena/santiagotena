@@ -1,6 +1,6 @@
 **`Software Engineering Student`**
 
-I am a biotechnology engineer and life science researcher in the process of becoming a software developer.
+I am a biotechnology engineer and life science professional in the process of becoming a software developer.
 
 My aim is to become a full-stack developer.
 
