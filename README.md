@@ -1,8 +1,6 @@
-**`Software Engineering Student`**
+**`Software Engineer`**
 
-A biotechnology engineer and life science professional in the process of becoming a software developer.
-
-My aim is to become a full-stack developer.
+A biotechnology engineer and life science professional turned software developer.
 
 In this profile you can find my projects from:
   * 42 Wolfsburg Software Engineering School
