@@ -5,6 +5,7 @@ A biotechnology engineer and life science professional turned software developer
 In this profile you can find my projects from:
   * 42 Wolfsburg Software Engineering School
   * The Odin Project
+  * Personal Projects
  
  #
  
