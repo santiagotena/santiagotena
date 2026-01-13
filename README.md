@@ -34,14 +34,3 @@ This profile showcases my MSc thesis in Information Management and Information T
 </p>
 
 <br />
-
-#
-
-### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagotena&layout=compact&theme=dark&langs_count=6&hide=objective-c,makefile,cmake,jupyter%20notebook)](https://github.com/santiagotena/github-readme-stats)
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagotena&show_icons=true&theme=dark&hide_title=true&hide_rank=true)
-
-#
-
-
